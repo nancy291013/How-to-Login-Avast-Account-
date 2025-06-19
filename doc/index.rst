@@ -1,13 +1,14 @@
 How to Login Avast Account?
 ====================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-For Login Account - https://aclogportal.com/
-------------------
 
 In today’s digital age, cybersecurity is a vital component of our everyday lives. Whether you're browsing the web, shopping online, or storing sensitive information on your device, you need a reliable solution to protect yourself from threats like malware, viruses, ransomware, and phishing attacks. Avast is one of the most popular antivirus and cybersecurity providers, offering a range of products for both individual users and businesses.
+
+.. image:: https://msn-login-account.readthedocs.io/en/latest/_images/click-login.png
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://aclogportal.com/kaspersky-login
 
 To fully benefit from the features Avast provides, it's essential to understand how to access your Avast account. This account is your personal hub where you can manage your licenses, monitor device protection, update billing information, and contact customer support. If you're unsure how to login to your Avast account or are experiencing difficulties, this comprehensive guide is for you.
 
