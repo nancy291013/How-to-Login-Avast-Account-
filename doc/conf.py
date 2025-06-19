@@ -1,4 +1,4 @@
-project = 'Avast Login Account'
+project = 'Avast'
 author = 'Your Name'
 release = '1.0'
 
